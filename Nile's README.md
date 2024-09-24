@@ -7,15 +7,15 @@ Hi, my name is Nile Jackson. I started learning javascript about a month ago, an
 ## Likes
 I enjoy cooking because I'm an eight year vegan who misses the dishes I grew up on, namely jamaican food; I spend a lot of down time in the kitchen trying to "veganize" things. Other than food, I love to read, I hated books as a kid but four/five years ago I moved to Iowa to play(school) football at a small private college called William Penn, I wasn't a fan of Iowa or the school so I began using the library as a place to escape. I also like my two dogs, Pico(a pitbull/great dane mix) & LuLu(a small mut of some sort).
 ## Dislikes
-*I'm not a fan of the following; 
+* I'm not a fan of the following; 
 
-*artichokes
+* artichokes
 
-*english breakfast tea
+* english breakfast tea
 
-*the new york subway system
+* the new york subway system
 
-*excessively cold winters 
+* excessively cold winters 
 
 ## Hobbies
 Some of my hobbies include;
