@@ -1,5 +1,5 @@
 $ git clone
-# Nile Jackson README.md
+# Nile Jackson's README.md
 
 ## Introduction
 Hi, my name is Nile Jackson. I started learning javascript about a month ago, and I'm about two weeks into my journey with java; I'm new. I decided to learn programming because of my fascination with digital audio workstation plugins, I plan on building my own in due time. Before code differently, I worked primarily in juvenile detention; this wasn't fulfilling so a little over a year ago I rented a room in brooklyn New York and began an audio engineering internship at a place called Jungle studios. After two months at jungle and several odd jobs I landed my first "gig" as the sound guy at a local bar called skytown. I continued working small gigs for a few months and traveling back to delaware 3 times a week to do carpentry work with a long time friend of mine. Eventually I decided that this life style wasn't sustainable, so after another four month internship at Manhattan Beach studios, I did some research and discovered code differently.
