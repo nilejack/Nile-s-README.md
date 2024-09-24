@@ -26,6 +26,7 @@ Moving forward: I look forward to learning github, git, and docker because I don
 
 
 ## Cool Pictures
+![Image 1](https://github.com/user-attachments/assets/1c76f4ad-11d1-4e60-984d-f07d4a7c70d0)
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fotakuusamagazine.com%2Fsakamoto-days-anime-revealed-for-january-2025%2F&psig=AOvVaw1txAeqyqzzZImsWzQih-hS&ust=1727256322910000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNiqtcGh24gDFQAAAAAdAAAAABAE /></a>
-<img src="https://www.google.com/imgres?q=audio%20technica%20headphones%C2%A0&imgurl=https%3A%2F%2Fwww.audio-technica.com%2Fen-us%2Fmedia%2Fcatalog%2Fproduct%2Fcache%2F177161fc218aa2dd413f2b73f6832b88%2Fa%2Ft%2Fath-m50x_lab_02.png&imgrefurl=https%3A%2F%2Fwww.audio-technica.com%2Fen-us%2Fath-m50x&docid=niqU0yE-Nw0dyM&tbnid=GDMZNFCGMSlhqM&vet=12ahUKEwiq9d34oduIAxWblokEHW74HuMQM3oECHAQAA..i&w=2000&h=2000&hcb=2&ved=2ahUKEwiq9d34oduIAxWblokEHW74HuMQM3oECHAQAA/></a>
+![Image](https://github.com/user-attachments/assets/2e462215-f784-462f-941e-23ef00959b60)
+
